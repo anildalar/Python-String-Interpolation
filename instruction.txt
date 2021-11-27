@@ -1,0 +1,19 @@
+Window + R = Run 
+
+CMD
+
+py --version
+
+Ctrl + ` = Open Terminal
+
+Ctrl + l = Clear Log
+
+tab = auto completion
+
++ = concatination operator (Jodna)
+
+shift + alt + DownArrow
+
+String Interpolation / Variable Substitution
+
+https://www.programiz.com/python-programming/string-interpolation
